@@ -15,10 +15,8 @@ Liferay DXP v7.2, Angular 7, Sass, Bootstrap 3, Clarity, NPM, Maven, JAVA 17, RE
 
 📫 How to reach me:
 
-
-![https://twitter.com/thecrash17](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-
-![https://www.linkedin.com/in/edgar-alexander-guevara-naranjo-a46655b9](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edgar-alexander-guevara-naranjo-a46655b9)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thecrash17)
 
 
 <!--
